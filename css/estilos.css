@@ -1,11 +1,28 @@
 body
 {
     color: #333;
-    text-align: center;
+    text-align:center;
     font-family: 'arial';
     font-size: 16px;
     margin:0;
     padding:0;
+}
+#cabecera 
+{
+    background: #33a;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0 , 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #taglive
+{
+    text-align-last: right;
+    margin: 0 0 0 1em;
+    font-size: 0.8em;
+    color:white;
+    
 }
 #container
 {
